@@ -6,36 +6,31 @@
 
 ###
 
-<p align="left">Sou um estudante de Análise e Desenvolvimento de Sistema. Estou sempre buscando aprender e aprimorar minhas habilidades em Java, Spring Boot e outras tecnologias do mundo web.</p>
-
-###
-
-<h2 align="left">Tecnologias</h2>
+<p align="left">Sou um desenvolvedor fullstack focado em criar aplicações modernas e intuitivas, com um forte interesse em análise de dados e automação. Atualmente, estou aperfeiçoando minhas habilidades com Next.js no front-end e Express ou NestJS no back-end.
+</p>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<img align="left" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJyeGRyejk4YXh2OGh1d3U4NGI4aWF2cnliNjZpbWRsYWxqMnlneCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5fQyd7jM58m5y/200.webp"  />
+<img align="center" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJyeGRyejk4YXh2OGh1d3U4NGI4aWF2cnliNjZpbWRsYWxqMnlneCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5fQyd7jM58m5y/200.webp"  />
 
 ###
